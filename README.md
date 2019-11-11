@@ -16,7 +16,7 @@ Just a simple todo app.
 ## Installation
 
 ```
-git clone https://github.com/mwinel/todo-app.git
+git clone https://github.com/IssaIan/todo-app.git
 python -m venv venv
 source venv/Scripts/activate
 pip install -r requirements.txt
